@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "keyaudiomanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pedroesli/KeyAudioManager",
+      "state" : {
+        "revision" : "360d0d0c0a38a8c33de0bbc32bc22dcd04669405",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
